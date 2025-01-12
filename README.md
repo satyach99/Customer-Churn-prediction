@@ -55,7 +55,7 @@ Customer_Churn_Prediction/
 
 3. Run the Jupyter Notebook to train and evaluate models:
    ```bash
-   jupyter notebook churn_model.ipynb
+   jupyter notebook Customer Churn Prediction.ipynb
    ```
 
 ---
